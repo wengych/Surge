@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,video.google.com
 DOMAIN-SUFFIX,youtu.be
 USER-AGENT,*YouTube*
+USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtube*
