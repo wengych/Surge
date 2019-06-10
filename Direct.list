@@ -6,3 +6,8 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
+IP-CIDR,173.242.116.237/32
+DOMAIN,moonagic.com
+
+
+PROCESS-NAME,World of Warcraft
