@@ -8,6 +8,7 @@ DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 IP-CIDR,173.242.116.237/32
 DOMAIN,moonagic.com
+DOMAIN-SUFFIX,speedtest.net
 
 
 PROCESS-NAME,World of Warcraft
