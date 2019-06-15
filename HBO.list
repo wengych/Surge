@@ -1,5 +1,6 @@
 # >> HBO
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogeo.cust.footprint.net
 
 USER-AGENT,HBO%20NOW*
