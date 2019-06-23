@@ -1,7 +1,7 @@
 # >> HBO
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,hbogeo.cust.footprint.net
+DOMAIN-SUFFIX,hbo.com,force-remote-dns
+DOMAIN-SUFFIX,hbogo.com,force-remote-dns
+DOMAIN-SUFFIX,hbonow.com,force-remote-dns
+DOMAIN-SUFFIX,hbogeo.cust.footprint.net,force-remote-dns
 
 USER-AGENT,HBO%20NOW*
