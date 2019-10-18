@@ -1,6 +1,7 @@
 // PROCESS
 PROCESS-NAME,QQ jietu plugin,REJECT
 PROCESS-NAME,Jietu,REJECT
+PROCESS-NAME,Axure RP 9,REJECT
 # .CN
 DOMAIN-SUFFIX,0z5jn.cn
 DOMAIN-SUFFIX,1.wps.cn
@@ -217,6 +218,7 @@ DOMAIN-SUFFIX,rtb.adview.cn
 DOMAIN-SUFFIX,s.flipchina.cn
 DOMAIN-SUFFIX,s.xhsxgmt.cn
 DOMAIN-SUFFIX,sas816.ujikdd041o.cn
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
 DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn
 DOMAIN-SUFFIX,sdkm.w.inmobi.cn
 DOMAIN-SUFFIX,seen.hgo7r.cn
