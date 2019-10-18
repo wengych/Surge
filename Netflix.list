@@ -8,4 +8,4 @@ DOMAIN-SUFFIX,nflxso.net,force-remote-dns
 DOMAIN-SUFFIX,nflxvideo.net,force-remote-dns
 DOMAIN-KEYWORD,netflix,force-remote-dns
 DOMAIN-KEYWORD,nflx,force-remote-dns
-DOMAIN-SUFFIX,nflxvideo.net,force-remote-dns
+DOMAIN-SUFFIX,fast.com,force-remote-dns
