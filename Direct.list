@@ -6,7 +6,8 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
-IP-CIDR,129.226.114.230/32
+IP-CIDR,129.226.122.188/32
+IP-CIDR,129.226.118.141/32
 DOMAIN,moonagic.com
 DOMAIN,cdn.agic.io
 DOMAIN-SUFFIX,speedtest.net
