@@ -11,5 +11,9 @@ DOMAIN,cdn.agic.io
 DOMAIN,vip1.loli.net
 DOMAIN-SUFFIX,speedtest.net
 
+IP-CIDR,129.226.122.188/32
+IP-CIDR,103.138.74.105/32
+IP-CIDR,129.226.118.141/32
+
 
 PROCESS-NAME,World of Warcraft
