@@ -2,6 +2,7 @@
 PROCESS-NAME,QQ jietu plugin,REJECT
 PROCESS-NAME,Jietu,REJECT
 PROCESS-NAME,Axure RP 9,REJECT
+PROCESS-NAME,/Applications/QQ.app/Contents/Library/LoginItems/QQ jietu plugin.app/Contents/MacOS/QQ jietu plugin,REJECT
 # .CN
 DOMAIN-SUFFIX,0z5jn.cn
 DOMAIN-SUFFIX,1.wps.cn

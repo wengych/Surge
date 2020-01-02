@@ -1,4 +1,6 @@
 PROCESS-NAME,/usr/local/Cellar/aria2/1.34.0_1/bin/aria2c
+PROCESS-NAME,/Applications/Xcode.app/Contents/SharedFrameworks/ContentDeliveryServices.framework/Versions/A/Frameworks/AppStoreService.framework/Versions/A/Support/altool
+PROCESS-NAME,/Applications/Transporter.app/Contents/MacOS/Transporter
 DOMAIN,moonagic.com
 DOMAIN,gspe1-ssl.ls.apple.com
 
