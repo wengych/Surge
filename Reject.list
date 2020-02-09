@@ -1488,7 +1488,7 @@ DOMAIN-SUFFIX,apistaging.airpush.com
 DOMAIN-SUFFIX,apistat.adbana.com
 DOMAIN-SUFFIX,apk.static.youmi.net
 DOMAIN-SUFFIX,apns.ios.ijinshan.com
-DOMAIN-SUFFIX,app-measurement.com
+# DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app.50bang.org
 DOMAIN-SUFFIX,app.houyi.baofeng.net
 DOMAIN-SUFFIX,app.tanwan.com
