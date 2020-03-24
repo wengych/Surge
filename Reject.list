@@ -1565,7 +1565,6 @@ DOMAIN-SUFFIX,bh.contextweb.com
 DOMAIN-SUFFIX,biddingx.com
 DOMAIN-SUFFIX,bigdata.adsunflower.com
 DOMAIN-SUFFIX,bigdata.adups.com
-DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,biz.live.xunlei.com
 DOMAIN-SUFFIX,biz.vpon.com
 DOMAIN-SUFFIX,biz5.kankan.com
@@ -1654,8 +1653,6 @@ DOMAIN-SUFFIX,channel.fanxing.kugou.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,chartboost.com
 DOMAIN-SUFFIX,chmae.com
-DOMAIN-SUFFIX,choice.microsoft.com
-DOMAIN-SUFFIX,choice.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,cip6.czpush.com
 DOMAIN-SUFFIX,cj.qidian.com
 DOMAIN-SUFFIX,ck.houyi.baofeng.net
@@ -1745,7 +1742,6 @@ DOMAIN-SUFFIX,cr-p16.ladsp.com
 DOMAIN-SUFFIX,creative.1111cpc.com
 DOMAIN-SUFFIX,creative.jdkic.com
 DOMAIN-SUFFIX,criteo.com
-DOMAIN-SUFFIX,crl.microsoft.com
 DOMAIN-SUFFIX,crossoverchina.com
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,cs.dqwjzm.com
@@ -1801,7 +1797,6 @@ DOMAIN-SUFFIX,delivery.dmkt-sp.jp
 DOMAIN-SUFFIX,devnull.perfops.net
 DOMAIN-SUFFIX,df.tanx.com
 DOMAIN-SUFFIX,dfc1.benbaisteel.com
-DOMAIN-SUFFIX,diagnostics.support.microsoft.com
 DOMAIN-SUFFIX,dianru.com
 DOMAIN-SUFFIX,diaopic.14bobo.com
 DOMAIN-SUFFIX,digg.analytics.live.com
@@ -2036,15 +2031,12 @@ DOMAIN-SUFFIX,i.l.inmobicdn.net
 DOMAIN-SUFFIX,i.w.inmobi.com
 DOMAIN-SUFFIX,i.w55c.net
 DOMAIN-SUFFIX,i1.go2yd.com
-DOMAIN-SUFFIX,i1.services.social.microsoft.com
-DOMAIN-SUFFIX,i1.services.social.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,i1236.net
 DOMAIN-SUFFIX,iadctest.qwapi.com
 DOMAIN-SUFFIX,id.jiathis.com
 DOMAIN-SUFFIX,ids.deliver.ifeng.com
 DOMAIN-SUFFIX,ids1.deliver.ifeng.com
 DOMAIN-SUFFIX,idx.m.hub.sandai.net
-DOMAIN-SUFFIX,ieonline.microsoft.com
 DOMAIN-SUFFIX,ifengad.3g.ifeng.com
 DOMAIN-SUFFIX,iflow.minfo.baofeng.net
 DOMAIN-SUFFIX,iflow.uczzd.com
@@ -2413,8 +2405,6 @@ DOMAIN-SUFFIX,o.if.qidian.com
 DOMAIN-SUFFIX,o2omobi.com
 DOMAIN-SUFFIX,oadz.com
 DOMAIN-SUFFIX,obeyter.com
-DOMAIN-SUFFIX,oca.telemetry.microsoft.com
-DOMAIN-SUFFIX,oca.telemetry.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,offline-adv.oray.com
 DOMAIN-SUFFIX,oimagea2.ydstatic.com
 DOMAIN-SUFFIX,ok365.com
@@ -2556,7 +2546,6 @@ DOMAIN-SUFFIX,rabbit.meitustat.com
 DOMAIN-SUFFIX,rabbit.mtadvert.com
 DOMAIN-SUFFIX,rabbit.tg.meitu.com
 DOMAIN-SUFFIX,rad.live.com
-DOMAIN-SUFFIX,rad.microsoft.com
 DOMAIN-SUFFIX,radar.cedexis.com
 DOMAIN-SUFFIX,rank.hit.china.com
 DOMAIN-SUFFIX,rbp.emea.mxptint.net
@@ -2575,7 +2564,6 @@ DOMAIN-SUFFIX,rcv.union-wifi.com
 DOMAIN-SUFFIX,rd.ane.yahoo.co.jp
 DOMAIN-SUFFIX,rdstat.tanx.com
 DOMAIN-SUFFIX,rec.moviebox.baofeng.net
-DOMAIN-SUFFIX,redir.metaservices.microsoft.com
 DOMAIN-SUFFIX,referrer.disqus.com
 DOMAIN-SUFFIX,remote88.com
 DOMAIN-SUFFIX,renminbao.com
@@ -2691,7 +2679,6 @@ DOMAIN-SUFFIX,service.ad.adesk.com
 DOMAIN-SUFFIX,service.urchin.com
 DOMAIN-SUFFIX,servicer.adskeeper.co.uk
 DOMAIN-SUFFIX,serving-sys.com
-DOMAIN-SUFFIX,settings-sandbox.data.microsoft.com
 DOMAIN-SUFFIX,sg-cdn.effectivemeasure.net
 DOMAIN-SUFFIX,sg.keytui.com
 DOMAIN-SUFFIX,shaft.jebe.renren.com
@@ -2726,7 +2713,6 @@ DOMAIN-SUFFIX,spade.twitch.tv
 DOMAIN-SUFFIX,spcdnsp.i-mobile.co.jp
 DOMAIN-SUFFIX,sponsorpay.com
 DOMAIN-SUFFIX,spro.so.com
-DOMAIN-SUFFIX,sqm.telemetry.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,srv.buysellads.com
 DOMAIN-SUFFIX,srv.carbonads.net
 DOMAIN-SUFFIX,ss.cnczjy.com
@@ -2788,8 +2774,6 @@ DOMAIN-SUFFIX,stats.feitianma.com
 DOMAIN-SUFFIX,stats.ipinyou.com
 DOMAIN-SUFFIX,stats.mokeedev.com
 DOMAIN-SUFFIX,stats.umsns.com
-DOMAIN-SUFFIX,statsfe1.ws.microsoft.com
-DOMAIN-SUFFIX,statsfe2.ws.microsoft.com
 DOMAIN-SUFFIX,stjzh.gdtarget.com
 DOMAIN-SUFFIX,store.videojj.com
 DOMAIN-SUFFIX,storm.logger.baofeng.com
@@ -2797,7 +2781,6 @@ DOMAIN-SUFFIX,stuff.202m.com
 DOMAIN-SUFFIX,subo.logger.baofeng.com
 DOMAIN-SUFFIX,subswin.com
 DOMAIN-SUFFIX,sugar.zhihu.com
-DOMAIN-SUFFIX,survey.watson.microsoft.com
 DOMAIN-SUFFIX,susapi.lenovomm.com
 DOMAIN-SUFFIX,switchadhub.com
 DOMAIN-SUFFIX,sy.code.mytanwan.com
@@ -2844,10 +2827,7 @@ DOMAIN-SUFFIX,tb060x.corp.youdao.com
 DOMAIN-SUFFIX,tb104x.corp.youdao.com
 DOMAIN-SUFFIX,tc.51la.net
 DOMAIN-SUFFIX,tedagz.com
-DOMAIN-SUFFIX,telecommand.telemetry.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,telemetry.appex.bing.net
-DOMAIN-SUFFIX,telemetry.microsoft.com
-DOMAIN-SUFFIX,telemetry.urs.microsoft.com
 DOMAIN-SUFFIX,temai.snssdk.com
 DOMAIN-SUFFIX,test.api.xlmc.sandai.net
 DOMAIN-SUFFIX,tg.jifen.2345.com
@@ -2989,9 +2969,6 @@ DOMAIN-SUFFIX,vip.zhuba8.com
 DOMAIN-SUFFIX,vjcyehtqm9.me
 DOMAIN-SUFFIX,vl8c4g7tmo.me
 DOMAIN-SUFFIX,vm.makeding.com
-DOMAIN-SUFFIX,vortex-sandbox.data.microsoft.com
-DOMAIN-SUFFIX,vortex-win.data.microsoft.com
-DOMAIN-SUFFIX,vortex.data.microsoft.com
 DOMAIN-SUFFIX,vpon.com
 DOMAIN-SUFFIX,vs19.gzcu.u3.ucweb.com
 DOMAIN-SUFFIX,vs2.gzcu.u3.ucweb.com
@@ -3009,8 +2986,6 @@ DOMAIN-SUFFIX,wanfeng1.com
 DOMAIN-SUFFIX,wanhua6.com
 DOMAIN-SUFFIX,wap.tanwan.com
 DOMAIN-SUFFIX,wap3.ucweb.com
-DOMAIN-SUFFIX,watson.microsoft.com
-DOMAIN-SUFFIX,watson.telemetry.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,wbwl.houyi.baofeng.net
 DOMAIN-SUFFIX,web-track.go2yd.com
 DOMAIN-SUFFIX,web.da.mgtv.com
