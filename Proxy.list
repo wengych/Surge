@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,gmail,force-remote-dns
 DOMAIN-SUFFIX,gstatic.com,force-remote-dns
 DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 DOMAIN,www.logitechg.com.cn,force-remote-dns
+DOMAIN,ampproject.org,force-remote-dns
 
 # >> Cloudflare
 DOMAIN-SUFFIX,cloudflareresolve.com,force-remote-dns
