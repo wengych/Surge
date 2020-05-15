@@ -147,7 +147,7 @@ DOMAIN-SUFFIX,jct.maptu.cn
 DOMAIN-SUFFIX,jebe.xnimg.cn
 DOMAIN-SUFFIX,jifendownload.2345.cn
 DOMAIN-SUFFIX,jmgehn.cn
-DOMAIN-SUFFIX,jpush.cn
+#DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,js.icast.cn
 DOMAIN-SUFFIX,js2254.hfxcsl.cn
 DOMAIN-SUFFIX,keyrun.cn
