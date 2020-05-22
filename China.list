@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+# Apple maps
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
