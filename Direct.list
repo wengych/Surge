@@ -3,6 +3,7 @@ PROCESS-NAME,altool
 PROCESS-NAME,Transporter
 DOMAIN,moonagic.com
 DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gs-loc-cn.apple.com
 
 // Prior
 DOMAIN,client.amplifi.com
