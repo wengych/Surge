@@ -16,6 +16,7 @@ DOMAIN,ip.istatmenus.app
 DOMAIN-SUFFIX,speedtest.net
 
 PROCESS-NAME,World of Warcraft
+PROCESS-NAME,com.apple.geod
 
 IP-CIDR,129.226.118.141/32
 IP-CIDR,129.226.122.188/32
