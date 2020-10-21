@@ -30,5 +30,5 @@ DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,gsp64-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe12-cn-ssl.ls.apple.com
-PROCESS-NAME,/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
-PROCESS-NAME,/System/Applications/FindMy.app/Contents/MacOS/FindMy
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,FindMy
