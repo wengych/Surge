@@ -26,7 +26,3 @@ DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
-# Apple Maps
-DOMAIN-SUFFIX,ls.apple.com
-PROCESS-NAME,/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
-PROCESS-NAME,/System/Applications/FindMy.app/Contents/MacOS/FindMy
