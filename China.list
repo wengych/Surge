@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
+# baidu
+DOMAIN-KEYWORD,baidu
 # Misc
 DOMAIN-SUFFIX,biquge.com.tw
 DOMAIN-SUFFIX,ip.bjango.com
