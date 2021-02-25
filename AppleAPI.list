@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com
