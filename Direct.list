@@ -14,5 +14,6 @@ DOMAIN,vip1.loli.net
 DOMAIN,ip.istatmenus.app
 
 PROCESS-NAME,World of Warcraft
+PROCESS-NAME,ssh
 
 DOMAIN,apapia-history.manmanbuy.com
