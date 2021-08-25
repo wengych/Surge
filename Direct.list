@@ -15,6 +15,7 @@ DOMAIN,ip.istatmenus.app
 
 PROCESS-NAME,World of Warcraft
 PROCESS-NAME,ssh
+PROCESS-NAME,frpc
 
 DOMAIN,apapia-history.manmanbuy.com
 
