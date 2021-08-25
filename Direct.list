@@ -17,3 +17,9 @@ PROCESS-NAME,World of Warcraft
 PROCESS-NAME,ssh
 
 DOMAIN,apapia-history.manmanbuy.com
+
+IP-CIDR,129.226.122.188/32,no-resolve
+IP-CIDR,129.226.118.141/32,no-resolve
+IP-CIDR,104.198.104.199/32,no-resolve
+IP-CIDR,194.180.12.9/32,no-resolve
+IP-CIDR,101.33.32.207/32,no-resolve
