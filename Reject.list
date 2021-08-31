@@ -1199,27 +1199,6 @@ DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
 DOMAIN-SUFFIX,practivate.adobe.com
 DOMAIN-SUFFIX,wip3.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
-# Google
-#DOMAIN-SUFFIX,googleadsserving.cn
-#DOMAIN-SUFFIX,static.googleadsserving.cn
-#DOMAIN-SUFFIX,ade.googlesyndication.com
-#DOMAIN-SUFFIX,ads.google.com
-#DOMAIN-SUFFIX,afd.l.google.com
-#DOMAIN-SUFFIX,afs.googlesyndication.com
-#DOMAIN-SUFFIX,badad.googleplex.com
-#DOMAIN-SUFFIX,google-analytics.com
-#DOMAIN-SUFFIX,googlecommerce.com
-#DOMAIN-SUFFIX,googlesyndication.com
-#DOMAIN-SUFFIX,googletagmanager.com
-#DOMAIN-SUFFIX,googletagservices.com
-#DOMAIN-SUFFIX,mobileads.google.com
-#DOMAIN-SUFFIX,pagead-tpc.l.google.com
-#DOMAIN-SUFFIX,pagead.google.com
-#DOMAIN-SUFFIX,pagead.l.google.com
-#DOMAIN-SUFFIX,pagead2.googlesyndication.com
-#DOMAIN-SUFFIX,ssl.google-analytics.com
-#DOMAIN-SUFFIX,tpc.googlesyndication.com
-#DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
 # Other AdBlock
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0aqpqdju.me

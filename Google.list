@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,youtube,force-remote-dns
 DOMAIN-SUFFIX,youtube.com,force-remote-dns
 DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
