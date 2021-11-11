@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
 DOMAIN-SUFFIX,youtube-nocookie.com,force-remote-dns
 DOMAIN-SUFFIX,video.google.com,force-remote-dns
 DOMAIN-SUFFIX,youtu.be,force-remote-dns
+DOMAIN-SUFFIX,ytimg.com,force-remote-dns
+DOMAIN,yt3.ggpht.com,force-remote-dns
 USER-AGENT,*YouTube*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtube*
