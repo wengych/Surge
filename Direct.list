@@ -1,8 +1,6 @@
 
-DOMAIN,moonagic.com
 DOMAIN,api.tuisong.baidu.com
 
-// Prior
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
@@ -14,6 +12,19 @@ DOMAIN,apapia-history.manmanbuy.com
 
 DOMAIN,werss.app
 
-
 DOMAIN,fast.losadhwselfff2332dasd.xyz
 
+// PROCESS
+PROCESS-NAME,World of Warcraft
+PROCESS-NAME,frpc
+PROCESS-NAME,frps
+PROCESS-NAME,Screen Sharin
+PROCESS-NAME,Folx GO+
+PROCESS-NAME,aria2c
+PROCESS-NAME,altool
+PROCESS-NAME,Transporter
+PROCESS-NAME,hysteria
+
+DOMAIN-KEYWORD,104.199.155.
+DOMAIN-KEYWORD,129.226.122.
+DOMAIN-KEYWORD,129.226.118.
