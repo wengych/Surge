@@ -6,8 +6,7 @@ DOMAIN,api.tuisong.baidu.com
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
-DOMAIN,moonagic.com
-DOMAIN,cdn.agic.io
+DOMAIN-SUFFIX,moonagic.com
 DOMAIN,vip1.loli.net
 DOMAIN,ip.istatmenus.app
 
