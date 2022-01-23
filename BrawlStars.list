@@ -1,6 +1,4 @@
 # Brawl Stars
-AND,((PROTOCOL,UDP), (DEST-PORT,9339))
-
 DOMAIN-SUFFIX,brawlstarsgame.com
 DOMAIN-SUFFIX,brawlstars.com
 DOMAIN-SUFFIX,supercell.helpshift.com
